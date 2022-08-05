@@ -1,0 +1,11 @@
+.id{
+    color: black;
+    margin:200px 200px 200px 500px;
+    background-position: center;
+}
+.base{
+    border-radius: 25px;
+}
+body{
+    background-image: url("1.jpg");
+}
